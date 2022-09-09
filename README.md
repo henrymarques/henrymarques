@@ -2,7 +2,7 @@
 
 ### Nos branches [deste repositório](https://github.com/henrisq/henrisq) têm pequenos projetos...
 Eu uso esse repositório para guardar alguns projetos, cada branch representa uma tecnologia, os projetos estão armazenados nas pastas dentro dos branches.<br/>
-Se por acaso você tiver interesse em algum, ou tiver dúvida de como ele funciona, pode entrar em contato comigo [por aqui](mailto:henrique.marques@estudante.ifms.edu.br)
+Se por acaso você tiver interesse em algum, ou tiver dúvida de como ele funciona, pode entrar em contato comigo [por aqui](mailto:henrique_marques@ufms.br)
 
 #### Algumas informações sobre mim:
 - 📄 Eu me chamo Henrique, amo todo tipo de desenvolvimento de aplicativos.
